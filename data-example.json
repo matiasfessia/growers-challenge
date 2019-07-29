@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Rob",
+    "farms": [
+      {
+        "plantingEvents": [
+          {
+            "date": "2019-04-25T00:20:43.246Z",
+            "cropType": "soybeans"
+          },
+          {
+            "date": "2018-11-25T00:20:43.246Z",
+            "cropType": "soybeans"
+          }
+        ]
+      },
+      {
+        "plantingEvents": [
+          {
+            "date": "2019-01-25T00:20:43.246Z",
+            "cropType": "soybeans"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jhon",
+    "farms": [
+      {
+        "plantingEvents": [
+          {
+            "date": "2019-09-25T00:20:43.246Z",
+            "cropType": "corn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matt",
+    "farms": [
+      {
+        "plantingEvents": [
+          {
+            "date": "2019-01-03T00:20:43.246Z",
+            "cropType": "soybeans"
+          }
+        ]
+      }
+    ]
+  }
+]
